@@ -1,2 +1,2 @@
-# asciilore-demo-docs
+# demo-docs
 Public Antora Project for Testing Purposes
